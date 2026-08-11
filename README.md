@@ -1,4 +1,4 @@
-# QpiVOLTA Research Brain — Configuration & Tuning Guide
+# Research Brain — Configuration & Tuning Guide
 
 A local AI assistant with RAG, ReAct agent loop, web search, and agentic code execution.
 Runs fully offline on Ollama. No cloud APIs needed.
